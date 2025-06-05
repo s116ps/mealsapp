@@ -1,0 +1,21 @@
+a {
+    text-transform: capitalize;
+    margin: 10px;
+    color: #fff;
+}
+
+.pdesc {
+    background-color: blanchedalmond;
+    overflow: hidden;
+    width: 100%;
+    height: 9em;
+}
+
+.pdesc:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.pname:hover {
+    color:#ff0000;
+}

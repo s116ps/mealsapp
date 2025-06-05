@@ -1,0 +1,26 @@
+
+h1 {
+  text-align: center;
+}
+
+#itlists {
+  float : left;
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
+  border: 1px solid black;
+  margin-left: 25px;
+}
+
+
+
+img{
+  width: 350px;
+  height: auto;
+  transition: all .55s ease;
+}
+
+img:hover{
+  background-color: #4d9559;
+  transform: translateY(-20px);
+}
